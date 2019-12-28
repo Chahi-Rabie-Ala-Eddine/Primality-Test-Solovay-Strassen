@@ -1,4 +1,4 @@
-# Primality-Test-Solovay-Strassen
+# The Primality Test of Solovay-Strassen
 
 **Version 1.0.0**
 
