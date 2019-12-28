@@ -6,14 +6,12 @@ This project is carried out as part of a DM of the cryptography module, with the
 
 The project contains 6 files:
 
-1. aritmethic.c and its .h: contain the parity test, the modulo congruence test and the if test
-two numbers are prime between them.
+1. aritmethic.c and its .h: contain the parity test, the modulo congruence test and the if test two numbers are prime between them.
 2.square_and_multiply.c and its .h: contain the modular openentiation algorithm.
 3.symbol_of_jacobi.c and its .h: contain all the properties of the jacobi symbol and
 the algorithm that calculates this symbol using all of these properties.
 4.solovay_strassen.c and its .h: contain the algorithm of the “SolovayStrassen primality test”.
-5.symbol_of_legendre.c and its .h: contain The quadratic residue test and the calculation of the symbol
-to caption.
+5.symbol_of_legendre.c and its .h: contain The quadratic residue test and the calculation of the symbol to caption.
 6.main.c
 
 ## Algorithms
@@ -72,3 +70,8 @@ In order to compile the program you will have to type make in the terminal. Then
 2- ./solovay_strassen symbol_of_jacobi a n: in order to calculate the jacobi symbol (a / n)
 3- ./solovay_strassen symbol_of_legendre a n: in order to calculate the symbol of Legendre (a / n)
 4- ./solovay_strassen coprimes a n: in order to test if the two numbers are prime between them.
+
+## License & copyright
+
+© **Chahi Rabie Ala Eddine**, **Keskes Yasmine** ***Versailles Saint Quentin en Yvelines college***.
+
