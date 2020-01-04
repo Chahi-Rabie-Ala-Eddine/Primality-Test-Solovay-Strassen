@@ -77,6 +77,10 @@ In order to compile the program you will have to type make in the terminal. Then
 3- ./solovay_strassen symbol_of_legendre a n: in order to calculate the symbol of Legendre (a / n)
 4- ./solovay_strassen coprimes a n: in order to test if the two numbers are prime between them.
 
+## Grade & Evalutation
+
+Mr. Léo Perrin has evaluated this program and gives it a score of 18/20.
+
 ## License & copyright
 
 © **Chahi Rabie Ala Eddine**, **Keskes Yasmine** ***Versailles Saint Quentin en Yvelines college***.
